@@ -1,0 +1,2 @@
+data_hora	url	registros	sha256	arquivo
+2026-11-19T21:56:50-03:00	https://servicodados.ibge.gov.br/api/v1/localidades/estados/32/municipios	78	1d410301e1c206850408842db20be3b112b96da551971b5f38dd862e63581a00	data/raw/municipios_es.json
