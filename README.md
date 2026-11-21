@@ -9,7 +9,7 @@ IFES Campus Serra — Bacharelado em Sistemas de Informação — Prof. Fidelis 
 | Nome | Matrícula |
 |---|---|
 | Thiago Fabiano | 20231BSI0341 |
-| Gabriel Oliveira | _(a preencher)_ |
+| Gabriel Oliveira | 20231BSI0325 |
 
 ## Objetivo
 
